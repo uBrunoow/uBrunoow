@@ -19,9 +19,15 @@
 <dl><dd><dl><dd><dl><dd><dl><dd>
 
 <!-- TEXTS -->
+  
+  Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
+  
+  - I'm 16y 
+  - From Brazil
+  - Currently learning HTML and CSS
+  
 
-<summary><b>✨&nbsp;&nbsp;**Languages that i'am leraning**&nbsp;Me</b></summary><br/>
-
+  Language and tools:
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="5848152fcef1014c0b5e4967.png" height="40" style="vertical-align:down; margin:4px" alt="pythonpng">
@@ -29,8 +35,4 @@
 <img src="css-3-logo-1.png" height="40" style="vertical-align:down; margin:4px" alt="csspng">
 </p>
   
-  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
-<details>
-  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
-  <br/>
-  Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
+
