@@ -28,7 +28,7 @@ Hi, I'm Bruno Werner, currently a systems development student from Brazil ğŸ‡§ğŸ
 
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-typescript.svg" height="40" style="vertical-align:down; margin:4px" alt="typescript">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-nodejs.svg" height="40" style="vertical-align:down; margin:4px" alt="nodejs">
-<img src="https://github.com/blackcater/blackcater/raw/main/images/logo-golang.svg" height="40" style="vertical-align:down; margin:4px" alt="golang">
+<img src="5848152fcef1014c0b5e4967.png" height="40" style="vertical-align:down; margin:4px" alt="pythonpng">
+<img src="download.png" height="40" style="vertical-align:down; margin:4px" alt="htmlpng">
+<img src="css-3-logo-1.png" height="40" style="vertical-align:down; margin:4px" alt="csspng">
 </p>
