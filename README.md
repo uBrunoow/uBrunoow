@@ -6,7 +6,7 @@
 <!-- IMAGES -->
 <img align="right" src="/BRUNO WERNER.png" alt="banner" style="margin:50px">
 
-<h1 align="left">Hi,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />💻</h1>
+<h1 align='center'> Hi! :wave:</h1>
 
 <!-- TEXTS -->
   <p align="center"> I'm Bruno Werner,</p>
