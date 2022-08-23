@@ -20,11 +20,7 @@
 
 <!-- TEXTS -->
 
-## About me:
-
-Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
-
-**Languages that i'am leraning**
+<summary><b>✨&nbsp;&nbsp;**Languages that i'am leraning**&nbsp;Me</b></summary><br/>
 
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
@@ -37,3 +33,4 @@ Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧�
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
+  Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
