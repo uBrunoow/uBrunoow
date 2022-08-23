@@ -18,9 +18,9 @@
 
 <!-- TEXTS -->
 
-<hr>
+## About me:
 
-- Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
+Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
 
 - 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT AND PYTHON**
 
