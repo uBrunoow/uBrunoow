@@ -24,15 +24,6 @@
 
 Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
 
-- 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT AND PYTHON**
-
-- 🤖 Something about me **Eu gosto de PROGRAMAR, ANIMES e CaFÉÉÉÉÉ**
-
-- 📫 How to reach me **bruno_werner@estudante.sesisenai.org.br </br> or brunowerner7@gmail.com**
-
-- ⚡ Fun fact **coala dorme?** 
-
-
 **Languages that i'am leraning**
 
 <p>
