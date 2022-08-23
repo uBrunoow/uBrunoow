@@ -9,6 +9,7 @@
 <img align="right" src="/BRUNO WERNER.png" alt="banner">
 
 <h3 align="center">apenas mais um desenvolvedor...</h3>
+
 - 🔭 I’m currently working on **HTML5**
 
 - 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT AND PYTHON**
