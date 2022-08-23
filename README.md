@@ -6,8 +6,7 @@
   <a href="https://twitter.com/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://dev.to/" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
-<img align="right" src="/BRUNO WERNER.png" alt="banner" margin-bottom="20px">
-<img align="right" src="https://64.media.tumblr.com/33cec5fffbef6cf57aed4e538a85407c/tumblr_onxl2newUq1w05w8zo1_500.gifv" alt="gif perfil">
+<img align="right" src="/BRUNO WERNER.png" alt="banner">
 <h3 align="center">apenas mais um desenvolvedor...</h3>
 - 🔭 I’m currently working on **HTML5**
 
