@@ -15,7 +15,7 @@
 <!-- IMAGES -->
 <br>
 <img align="right" src="/BRUNO WERNER.png" alt="banner" style="margin:50px">
-_____________________________________________________________________________
+_______________________________________________________________________________________________________________________________________________________________________
 <br />
 <!-- TEXTS -->
   Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
