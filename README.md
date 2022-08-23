@@ -13,17 +13,16 @@
 </p>
 
 <!-- IMAGES -->
-<img align="right" src="/BRUNO WERNER.png" alt="banner" style="margin:50px">
-
-<!-- TEXTS -->
 <br>
+<img align="right" src="/BRUNO WERNER.png" alt="banner" style="margin:50px">
+_____________________________________________________________________________
+<br />
+<!-- TEXTS -->
   Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..."
 
   - I'm 16y 
   - From Brazil
   - Currently learning HTML and CSS
- 
-<br />
 
 ## 🔧 Technologies & Tools
 <p>
