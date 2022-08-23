@@ -2,7 +2,7 @@
 
 <h1 align="left">Hi, I'm Bruno <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />💻</h1>
 
-
+<!-- LINKS HEADER -->
 
 <p align="center">  
   <a href="mailto:" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -11,9 +11,12 @@
   <a href="https://twitter.com/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-Twitter-00acee?style=for-the-badge&logo=Twitter&logoColor=white"></a>
   <a href="https://dev.to/" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
+
+<!-- IMAGES -->
+
 <img align="right" src="/BRUNO WERNER.png" alt="banner">
 
-<h3 align="center">apenas mais um desenvolvedor...</h3>
+<!-- TEXTS -->
 
 - 🔭 I’m currently working on **HTML5**
 
