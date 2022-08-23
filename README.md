@@ -32,3 +32,8 @@ Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧�
 <img src="html5-logo-1.png" height="40" style="vertical-align:down; margin:4px" alt="htmlpng">
 <img src="css-3-logo-1.png" height="40" style="vertical-align:down; margin:4px" alt="csspng">
 </p>
+  
+  ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=gautamkrishnar&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)
+<details>
+  <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
+  <br/>
