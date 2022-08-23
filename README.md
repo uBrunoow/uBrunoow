@@ -18,6 +18,8 @@
 
 <!-- TEXTS -->
 
+<p> Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..." </span> </p>
+
 - 🔭 I’m currently working on **HTML5**
 
 - 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT AND PYTHON**
