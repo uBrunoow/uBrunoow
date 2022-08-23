@@ -27,13 +27,9 @@
 - 📫 How to reach me **bruno_werner@estudante.sesisenai.org.br </br> or brunowerner7@gmail.com**
 
 - ⚡ Fun fact **coala dorme?** 
-<h3 align="center">Connect with me:</h3>
-<h3 align="center"> TRABALHANDO NESSA PROFILE AINDA AAAAAAAAAA</h3>
-<p align="center">
-<a href="https://instagram.com/brunow___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunow___" height="30" width="40" /></a>
-</p>
 
-**Languages and Tools:**
+
+**Languages that i'am leraning**
 
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
