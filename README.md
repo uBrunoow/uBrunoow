@@ -27,7 +27,7 @@
   - Currently learning HTML and CSS
   
 
-  Language and tools:
+## 🔧 Technologies & Tools
 <p>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="5848152fcef1014c0b5e4967.png" height="40" style="vertical-align:down; margin:4px" alt="pythonpng">
