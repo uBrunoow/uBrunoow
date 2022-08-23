@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **HTML5, CSS3, JAVASCRIPT AND PYTHON**
 
-- 🤖 Something about me **I like programming and animes**
+- 🤖 Something about me **Eu gosto de PROGRAMAR, ANIMES e CaFÉÉÉÉÉ**
 
 - 📫 How to reach me **bruno_werner@estudante.sesisenai.org.br </br> or brunowerner7@gmail.com**
 
