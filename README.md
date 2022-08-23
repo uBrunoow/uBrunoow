@@ -14,7 +14,7 @@ ________________________________________________________________________________
   - I'm 16y 
   - From Brazil
   - Currently learning HTML and CSS
-  - A fun fact ''Koala sleep's''
+  - A fun fact <i>''Koala sleep's''</i>
 
 ## 🔧 Technologies & Tools
 <p>
