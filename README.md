@@ -1,4 +1,5 @@
 <h1 align="left">Hi, I'm Bruno 👋🏻💻</h1>
+<img align="right" src="" alt="gif perfil">
 <h3 align="center">apenas mais um desenvolvedor...</h3>
 <p align="RIGHT">
   <a href="mailto:" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
