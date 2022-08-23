@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <img src="vscode-imagem.png" height="40" style="vertical-align:down; margin-right:4px" alt="vscode">
 </p>
 
-## 🔧 Contact with me
+## <p align="center"> 🔧 Contact with me </p>
 
 <p align="center">  
   <a href="mailto:" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
