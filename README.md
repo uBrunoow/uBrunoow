@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bruno Werner</h1>
+<h1 align="center">Hi, I'm Bruno Werner 👋🏻</h1>
 <h3 align="center">apenas mais um desenvolvedor...</h3>
 <p align="RIGHT">
   <a href="mailto:" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **bruno_werner@estudante.sesisenai.org.br </br> or brunowerner7@gmail.com**
 
-- ⚡ Fun fact **coala dorme?** <img align="right" src="https://i.pinimg.com/736x/04/08/24/04082486c4d1da72d39ddbfefcf13889.jpg" alt="coala dorme" height="30px" width="30px">
+- ⚡ Fun fact **coala dorme?** 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://instagram.com/brunow___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brunow___" height="30" width="40" /></a>
