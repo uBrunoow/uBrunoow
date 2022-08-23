@@ -8,6 +8,8 @@
 
 <img align="right" src="/BRUNO WERNER.png" alt="banner">
 
+<dl><dd><dl><dd><dl><dd><dl><dd>
+
 <p align="center">  
   <a href="mailto:" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nicolas-vilmes-994840241/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
