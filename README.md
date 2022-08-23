@@ -14,7 +14,7 @@
 
 <!-- IMAGES -->
 
-<img align="right" src="/BRUNO WERNER.png" alt="banner" style="margin-bottom:4px">
+<img align="right" src="/BRUNO WERNER.png" alt="banner" style="margin:50px">
 
 <!-- TEXTS -->
   
