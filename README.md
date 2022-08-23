@@ -1,16 +1,17 @@
 <!-- HEADER -->
 
-<h1 align="left">Hi, I'm Bruno <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />💻</h1>
 
 <!-- LINKS HEADER -->
 
 <!-- IMAGES -->
 <img align="right" src="/BRUNO WERNER.png" alt="banner" style="margin:50px">
-________________________________________________________________________________________________________________________________________________________
+
+<h1 align="left">Hi,<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />💻</h1>
 
 <!-- TEXTS -->
-  <p align="center"> Hi, I'm Bruno Werner, currently a systems development student from Brazil 🇧🇷. <span font-style="italic"> "just another developer..." </p>
-  
+  <p align="center"> I'm Bruno Werner,</p>
+  <p align='center'>currently a systems development student from Brazil 🇧🇷.  <i>"just another developer..."</i></p>
+
 ## <p align="center">🔧 Technologies & Tools</p>
 <p align="center">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
