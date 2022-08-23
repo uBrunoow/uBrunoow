@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bruno Werner</h1>
 <h3 align="center">apenas mais um desenvolvedor...</h3>
-<p align="center">
+<p align="RIGHT">
   <a href="mailto:" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/nicolas-vilmes-994840241/" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
   <!-- <a href="" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a> -->
