@@ -31,6 +31,7 @@
 <img src="5848152fcef1014c0b5e4967.png" height="40" style="vertical-align:down; margin:4px" alt="pythonpng">
 <img src="html5-logo-1.png" height="40" style="vertical-align:down; margin:4px" alt="htmlpng">
 <img src="css-3-logo-1.png" height="40" style="vertical-align:down; margin:4px" alt="csspng">
+<img src="vscode-imagem.png" height="40" style="vertical-align:down; margin:4px" alt="vscode">
 </p>
   
 
