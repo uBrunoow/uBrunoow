@@ -12,7 +12,7 @@
   <p align="center"> I'm Bruno Werner,</p>
   <p align='center'>currently a systems development student from Brazil 🇧🇷.  <i>"just another developer..."</i></p>
 
-## <p align="center">🔧 Technologies & Tools</p>
+## <p align="center">🔧 Languages & Tools</p>
 <p align="center">
 <img src="https://github.com/blackcater/blackcater/raw/main/images/logo-javascript.svg" height="40" style="vertical-align:down; margin:4px" alt="javascript">
 <img src="5848152fcef1014c0b5e4967.png" height="40" style="vertical-align:down; margin:4px" alt="pythonpng">
