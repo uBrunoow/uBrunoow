@@ -10,7 +10,7 @@
 
 <!-- TEXTS -->
   <p align="center"> I'm Bruno Werner,</p>
-  <p align='center'>currently a systems development student from Brazil 🇧🇷.  <i>"just another developer..."</i></p>
+  <p align='center'>currently a systems development student from Brazil 🇧🇷.</p>
 
 ## <p align="center">🔧 Languages & Tools</p>
 <p align="center">
