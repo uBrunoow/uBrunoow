@@ -31,10 +31,6 @@
   <a href="https://dev.to/___wonurb" target="_blank"><img height="27" src = "https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 </p>
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=uBrunoow&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uBrunoow&theme=tokyonight"/>
-<img src="https://github-profile-trophy.vercel.app/?username=uBrunoow&theme=tokyonight"/>
-
 
 <!--
 <div align="center">
