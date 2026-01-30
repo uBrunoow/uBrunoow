@@ -1,4 +1,4 @@
-<img align="right" src="/brunow-template.png" alt="banner" style="margin:50px">
+<img align="right" src="/brunow-template1.png" alt="banner" style="margin:50px">
 
 
 # Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
